@@ -5,3 +5,8 @@
 目前是显卡版本
 
 第一次打开需要读取时间，需要耐心等待一会
+
+自动翻译排版，机翻，只能是看个大概，主要是为了看看未翻译的漫画
+
+
+<img width="650" height="679" alt="ScreenShot_2026-01-30_151429_695" src="https://github.com/user-attachments/assets/c6e840f8-fa2e-4abb-99fc-33b7d0a1ebe1" />
